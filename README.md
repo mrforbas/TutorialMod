@@ -15,6 +15,6 @@ This series will teach you to:
 
 ## Links
 Here are the links to the videos:
-- [Full playlist](https://www.youtube.com/watch?v=uOhlqotZ9Fs&list=PL05RNChacm5AtzWjguAlaZt93UD7Uc0JP)
+- [Full Playlist](https://www.youtube.com/watch?v=uOhlqotZ9Fs&list=PL05RNChacm5AtzWjguAlaZt93UD7Uc0JP)
 - [Creating a Mod and Item](https://www.youtube.com/watch?v=uOhlqotZ9Fs)
 

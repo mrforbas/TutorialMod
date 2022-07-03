@@ -14,6 +14,7 @@ This series will teach you to:
 - Bosses
 
 ## Links
-Here are the links to the videos
-- [Basic item and mod creation](https://github.com/mrforbas/TutorialMod)
+Here are the links to the videos:
+- [Full playlist](https://www.youtube.com/watch?v=uOhlqotZ9Fs&list=PL05RNChacm5AtzWjguAlaZt93UD7Uc0JP)
+- [Creating a Mod and Item](https://www.youtube.com/watch?v=uOhlqotZ9Fs)
 

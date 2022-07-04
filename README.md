@@ -4,7 +4,9 @@ This is the source for my 1.4 tModLoader modding tutorial.
 ## Content
 This series will teach you to:
 - Make basic items
-- Weapons and tools
+- Weapons
+- Tools
+- Armors
 - Projectiles
 - Tiles
 - Furniture
